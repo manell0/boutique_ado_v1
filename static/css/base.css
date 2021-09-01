@@ -336,7 +336,7 @@ input[name='q']::placeholder {
     
 }
 
-@media (min-width: 480px){
+@media (min-width: 481px){
     .shows{
         display: none;
     }
